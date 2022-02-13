@@ -1,0 +1,6 @@
+framework module Pods_AQMonitor_AQMonitorUITests {
+  umbrella header "Pods-AQMonitor-AQMonitorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
