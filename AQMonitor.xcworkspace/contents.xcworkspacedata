@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/indianic/Desktop/AirQualityMonitoring-MVVM-Final/AQMonitor.xcodeproj">
+      location = "group:AQMonitor.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

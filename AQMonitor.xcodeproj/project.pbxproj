@@ -204,8 +204,8 @@
 			isa = PBXGroup;
 			children = (
 				021AE5B126D38C42005E6A70 /* ListVC.swift */,
-				021AE60626D4AFF2005E6A70 /* CityDataCell.swift */,
 				0260835F26D556EC009F482F /* AQIGraphVC.swift */,
+				021AE60626D4AFF2005E6A70 /* CityDataCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
